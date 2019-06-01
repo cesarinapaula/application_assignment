@@ -22,6 +22,11 @@ The finished project:
 
 ![working app](app.gif)
 
+
+## How To Start The Server
+
+First ensuring that you're in the main application_assignment folder, please enter 'node index.js' in the terminal, and press 'Enter'. It is successfully running if you see "Awesome app listening on port 3000!" displayed in the terminal. 
+
 ## Submission Requirements
 
 Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
